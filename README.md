@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Web developer from Turkey</h3>
 
 <img src="https://i.gifer.com/origin/cc/cc513d544fd047413a323eeda1bb018f.gif" width="300px" height="200" align=right>
-
 -  🐱‍🏍 I'm Civil Engineer but I find myself in software.
   
 -  🎆 Exploring routes to new visions and be a part of the new visions.
@@ -26,7 +25,6 @@
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=furkan-ermis&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-ermis" /> </p>
-
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &emsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &emsp;
@@ -34,6 +32,6 @@
 <details> 
   <summary>💡 <strong>Most Used Languages<strong> </summary>
  <br>
-<img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="300px" height="200" align=right>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-ermis&show_icons=true&locale=en&layout=compact" alt="furkan-ermis" /></p>
+<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/giphy-7.gif" width="300px" height="200" align=right>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-ermis&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </details>
