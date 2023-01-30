@@ -24,7 +24,8 @@
 <a href="https://tr.linkedin.com/in/furkan-ermis" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png?w=826&t=st=1675034425~exp=1675035025~hmac=048266b198bab1a5110871d128576c46eaf3fc45b753aadc5cece48766614863" alt="furkanermis" height="30" width="30" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=furkan-ermis&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-ermis" /> </p>
+
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Furkan-ermis&icon=5&color=8" alt="furkan-ermis" /> </p>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &emsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &emsp;
