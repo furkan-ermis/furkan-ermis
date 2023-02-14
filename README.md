@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Web developer from Turkey</h3>
 
-<img src="https://i.gifer.com/origin/cc/cc513d544fd047413a323eeda1bb018f.gif" width="300px" height="200" align=right>
--  🐱‍🏍 I'm Civil Engineer but I find myself in software.
+
+-  🐱‍🏍 I'm Civil Engineer but I find myself in software. <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/giphy-7.gif" width="300px" height="200" align=right>
   
 -  🎆 Exploring routes to new visions and be a part of the new visions.
 
@@ -33,6 +33,6 @@
 <details> 
   <summary>💡 <strong>Most Used Languages<strong> </summary>
  <br>
-<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/04/giphy-7.gif" width="300px" height="200" align=right>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-ermis&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </details>
