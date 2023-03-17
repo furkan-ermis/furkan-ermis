@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/KjVxfRrrncUAAAAd/matrix.gif" width="100%" height="300"></br>
+<img src="matrix.gif" width="100%" height="300"></br>
 
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
