@@ -21,7 +21,7 @@
 <p align="center">
 <a href="mailto:furkan.ermis@icloud.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/icloud.png" alt="furkanermis" height="30" width="30" /></a>&emsp;
 <a href="https://instagram.com/furkanermis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanermis" height="30" width="30" /></a>&emsp;
-<a href="https://tr.linkedin.com/in/furkan-ermis" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png?w=826&t=st=1675034425~exp=1675035025~hmac=048266b198bab1a5110871d128576c46eaf3fc45b753aadc5cece48766614863" alt="furkanermis" height="30" width="30" /></a>
+<a href="https://tr.linkedin.com/in/-furkanermis" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png?w=826&t=st=1675034425~exp=1675035025~hmac=048266b198bab1a5110871d128576c46eaf3fc45b753aadc5cece48766614863" alt="furkanermis" height="30" width="30" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
