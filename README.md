@@ -11,7 +11,7 @@
 
 - 🧐 A new age enthusiast.
 
--  ☕ Coffee is how I keep up with code
+- ☕ Coffee is how I keep up with code
 
 - 🌱 I’m currently learning **C#** And **React.JS**
 
